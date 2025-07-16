@@ -22,7 +22,7 @@
 
 |  Web Dev | Programming | Tools | Languages |
 |-----------|----------------|----------|--------------|
-| HTML, CSS, JS, React | C, Java, Python | Git, VS Code, Figma, Canva | English, Hindi, Japanese (N5) |
+| HTML, CSS, JS, React | C, Java, Python | Git, VS Code, Figma, Canva | English, Japanese (N5) |
 
 ---
 
