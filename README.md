@@ -38,8 +38,8 @@
 
 ### 🌟 Featured Projects
 
-- 🚀 [PickMyCrew](https://github.com/ckphase/PickMyCrew) — Worker booking platform with a clean UI/UX  
-- 🖊️ [Smart Campus Stationery System](https://github.com/ckphase/smart-campus-stationery) — Digital management system for university supplies  
+- 🖊️ [Smart Campus Stationery System](https://github.com/ckphase/smart-campus-stationery) — Digital management system for university supplies
+- 🚀 [Music Entertainment](https://github.com/ckphase/Music-Entertainment) — Worker booking platform with a clean UI/UX  
 - 💡 [Weather Station IoT Review](https://github.com/ckphase/weather-station-review) — Academic IoT-based paper analysis
 
 ---
