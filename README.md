@@ -46,7 +46,6 @@
 
 ### 🏷️ Badges About Me
 
-![K-pop Fan](https://img.shields.io/badge/K--pop💜Fan-pink?style=for-the-badge)
 ![Creative Developer](https://img.shields.io/badge/Creative_Developer-FFD700?style=for-the-badge)
 ![Based in India](https://img.shields.io/badge/India🌏-orange?style=for-the-badge)
 ![Diploma Student](https://img.shields.io/badge/CSE%20Diploma-8A2BE2?style=for-the-badge)
