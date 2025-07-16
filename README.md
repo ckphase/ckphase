@@ -1,4 +1,4 @@
-<h1 align="center"> Hi, I'm CKPhase</h1>
+<h1 align="center"> I'm CKPhase</h1>
 
 <p align="center">
   Developer | Designer
