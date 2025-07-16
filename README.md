@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm CKPhase</h1>
 
 <p align="center">
-  💻 Developer | 🎨 Designer | 🎧 K-pop Enthusiast  
+  💻 Developer | 🎨 Designer
   <br>
   📍 India | ⏰ GMT+5:30 (IST)  
   <br>
@@ -29,7 +29,7 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=ckphase&show_icons=true&theme=radical" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ckphase&layout=compact&theme=radical" height="150" />
 </p>
