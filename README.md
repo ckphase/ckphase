@@ -1,27 +1,26 @@
-<h1 align="center">👋 Hi, I'm CKPhase</h1>
+<h1 align="center"> Hi, I'm CKPhase</h1>
 
 <p align="center">
-  💻 Developer | 🎨 Designer
+  Developer | Designer
   <br>
-  📍 India | ⏰ GMT+5:30 (IST)  
+  India | GMT+5:30 (IST)  
   <br>
-  💬 Passionate about tech, creativity, and music!
+  Passionate about tech, creativity, and music!
 </p>
 
 ---
 
-### 🚀 About Me
+### About Me
 
-- 🎓 CSE Diploma Student (2024–2026)  
-- 🌱 Learning full-stack web development, UI/UX, and open source  
-- 🎵 Aspiring secret singer & K-pop dreamer  
-- ✨ Creative mind with tech hands — always building and vibing!
+-  CSE Diploma Student (2024–2026)  
+-  Learning full-stack web development, UI/UX, and open source  
+-  Creative mind with tech hands — always building and vibing!
 
 ---
 
-### 💼 Tech Stack
+### Tech Stack
 
-| 💻 Web Dev | 🧠 Programming | 🔧 Tools | 🌏 Languages |
+|  Web Dev | Programming | Tools | Languages |
 |-----------|----------------|----------|--------------|
 | HTML, CSS, JS, React | C, Java, Python | Git, VS Code, Figma, Canva | English, Hindi, Japanese (N5) |
 
@@ -36,15 +35,15 @@
 
 ---
 
-### 🌟 Featured Projects
+### Featured Projects
 
-- 🖊️ [Smart Campus Stationery System](https://github.com/ckphase/smart-campus-stationery) — Digital management system for university supplies
-- 🚀 [Music Entertainment](https://github.com/ckphase/Music-Entertainment) — Worker booking platform with a clean UI/UX  
-- 💡 [Weather Station IoT Review](https://github.com/ckphase/weather-station-review) — Academic IoT-based paper analysis
+-  [Smart Campus Stationery System](https://github.com/ckphase/smart-campus-stationery) — Digital management system for university supplies
+-  [Music Entertainment](https://github.com/ckphase/Music-Entertainment) — Worker booking platform with a clean UI/UX  
+-  [Weather Station IoT Review](https://github.com/ckphase/weather-station-review) — Academic IoT-based paper analysis
 
 ---
 
-### 🏷️ Badges About Me
+###  Badges About Me
 
 ![Creative Developer](https://img.shields.io/badge/Creative_Developer-FFD700?style=for-the-badge)
 ![Based in India](https://img.shields.io/badge/India🌏-orange?style=for-the-badge)
@@ -53,10 +52,10 @@
 
 ---
 
-### 🌐 Let's Connect
-- 🌍 [Portfolio Website](https://ckphase.github.io) *(under construction)*
-- 📧 Email: worldchampion202428@gmail.com
+### Let's Connect
+- [Portfolio Website](https://ckphase.github.io) *(under construction)*
+- Email: worldchampion202428@gmail.com
 
 ---
 
-_“Turning dreams into code, and code into dreams.” 💜_
+_“Turning dreams into code, and code into dreams.” _
