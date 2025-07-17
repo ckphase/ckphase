@@ -6,20 +6,19 @@
 
 ---
 
-### Tech Stack
-
-|  Web Dev | Programming | Tools | Languages |
-|-----------|----------------|----------|--------------|
-| HTML, CSS, JS, React | C, Java, Python | Git, VS Code, Figma, Canva | English, Japanese (N5) |
-
----
-
 ### 📊 GitHub Stats
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=ckphase&show_icons=true&theme=radical" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ckphase&layout=compact&theme=radical" height="150" />
 </p>
+
+---
+### Tech Stack
+
+|  Web Dev | Programming | Tools | Languages |
+|-----------|----------------|----------|--------------|
+| HTML, CSS, JS, React | C, Java, Python | Git, VS Code, Figma, Canva | English, Japanese (N5) |
 
 ---
 
