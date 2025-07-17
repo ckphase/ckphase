@@ -1,15 +1,3 @@
-<h1 align="center"> I'm CKPhase</h1>
-
-<p align="center">
-  Developer | Designer
-  <br>
-  India | GMT+5:30 (IST)  
-  <br>
-  Passionate about tech, creativity, and music!
-</p>
-
----
-
 ### About Me
 
 -  CSE Diploma Student (2024–2026)  
