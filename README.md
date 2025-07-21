@@ -5,7 +5,9 @@
 -  Creative mind with tech hands — always building and vibing!
 
 ---
+<p>
 <img src="https://streak-stats.demolab.com?user=MatinT-SA&theme=react&layout=compact" height="150" />
+</p>
 ---
 
 ### 📊 GitHub Stats
