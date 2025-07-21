@@ -5,9 +5,7 @@
 -  Creative mind with tech hands — always building and vibing!
 
 ---
-<img src="https://streak-stats.demolab.com?user=ckphase&theme=radical&hide_border=true" alt="ckphase's streak" />
-
-
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ckphase&theme=radical&hide_border=true)
 
 ---
 
