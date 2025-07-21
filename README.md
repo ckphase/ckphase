@@ -5,7 +5,7 @@
 -  Creative mind with tech hands — always building and vibing!
 
 ---
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=ckphase&theme=radical)
+![GitHub Snake](https://github.com/ckphase/ckphase/blob/output/github-contribution-grid-snake.svg)
 ---
 
 ### 📊 GitHub Stats
