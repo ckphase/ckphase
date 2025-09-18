@@ -8,13 +8,15 @@
 ---
 
 ### 🔥 GitHub Streak  
-<p align="center">
+<p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ckphase&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
 ### 📊 GitHub Stats  
+![GitHub stats](https://your-vercel-deployment.vercel.app/api?username=ckphase&show_icons=true&theme=radical&count_private=true)
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ckphase&show_icons=true&theme=radical&count_private=true&token=YOURTOKEN" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ckphase&layout=compact&theme=radical&token=YOURTOKEN" height="180" />
