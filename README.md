@@ -31,14 +31,14 @@
 
 ### Featured Projects  
 
-- [Smart Campus Stationery System](https://github.com/ckphase/smart-campus-stationery)  
-  *A digital management system for university supplies*  
+- [Quick Forms](https://github.com/ckphase/QuickForms)  
+  *A form generator which is designed using php*  
 
 - [Music Entertainment](https://github.com/ckphase/Music-Entertainment)  
   *Worker booking platform with clean UI/UX*  
 
-- [Weather Station IoT Review](https://github.com/ckphase/weather-station-review)  
-  *An academic IoT-based paper analysis project*  
+- [RISE-Ready-to-Intern-Skill-up-and-Elevate](https://github.com/ckphase/RISE-Ready-to-Intern-Skill-up-and-Elevate)  
+  *Internship and job portal designed for university level*  
 
 ---
 
